@@ -1,3 +1,6 @@
 hello
 students 
 of vsm college
+welcome to devops session
+GitHub
+CSE students
